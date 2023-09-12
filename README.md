@@ -177,13 +177,13 @@ For a list of supported IDEs and more details, see the "Exporting to IDEs" secti
     
     **Figure 1. Sample output**
 
-   ![Figure 1](images/terminal.jpg)
+   ![Figure 1](images/terminal.png)
 
 6. Confirm that the analyzer shows output like shown below:
 
    **Figure 2. Data on analyzer**
 
-   ![Figure 2](images/data.jpg)
+   ![Figure 2](images/data.png)
 
 
 
@@ -205,7 +205,7 @@ The following diagram shows the clocking divider structure of I2S
 
    **Figure 3. I2S Clocking divider structure**
 
-   ![Figure 3](images/clocking.jpg)
+   ![Figure 3](images/clocking.png)
 
 
 ### Resources and settings
